@@ -1,0 +1,19 @@
+{
+  "name": "keyboard-extra-focus",
+  "version": "0.0.1",
+  "description": "Directive for angular 1.5+ to make extra focus on tab to element",
+  "main": "keyboard-extra-focus.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PetrBuslyuk/keyboard-extra-focus.git"
+  },
+  "author": "Petr Buslyuk",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/PetrBuslyuk/keyboard-extra-focus/issues"
+  },
+  "homepage": "https://github.com/PetrBuslyuk/keyboard-extra-focus#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
