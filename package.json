@@ -1,6 +1,6 @@
 {
   "name": "keyboard-extra-focus",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Directive for angular 1.5+ to make extra focus on tab to element",
   "main": "keyboard-extra-focus.js",
   "repository": {
